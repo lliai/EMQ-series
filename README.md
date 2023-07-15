@@ -4,7 +4,7 @@
 
 This repository contains all the experiments of our paper "EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization".  Final implementations in preparation.
 
-![emq_primitives](C:\Users\lujun\Downloads\Overleaf Projects (1 items)(1)\ICCV2023-EMQ\figs\emq_primitives.png)
+![emq_primitives](emq_primitives.png)
 
 
 
