@@ -1,0 +1,11 @@
+Pillow
+# tensorboardX
+scipy
+scikit-learn
+pytorchcv
+torchprofile
+PuLP
+nas_bench_201
+# pickle
+# apex # for QAT
+matplotlib
