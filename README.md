@@ -1,6 +1,6 @@
 
 
-# EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization 
+# EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization (ICCV2023)
 
 This repository contains all the experiments of our paper "EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization".  Final implementations in preparation.
 
